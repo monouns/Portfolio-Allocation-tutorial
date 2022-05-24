@@ -12,7 +12,7 @@ This git repository is for "Portfolio allocation tutorial with python"
 ### * For low risk, Pre-Investment is done with bond!
 ![Pre-Investment](./img/Pre_investment.png)
 
-***You can run code with Colab!***
+***You can run the codes with Colab!***
 <br></br>
 
 ## 1. Markowitz Portfolio
