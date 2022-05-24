@@ -3,13 +3,13 @@ This git repository is for "Portfolio allocation tutorial with python"
 
 **My Portfolio is constructed by several model algorithms.**
 
-### Process for Algorithmic Trading
+### * Process for Algorithmic Trading
 ![Trading Process](./img/Trading_Process.png)
 
-### Get Data from FinanceDataReader
+### * Get Data from FinanceDataReader
 ![Get Data](./img/Get_Data.png)
 
-### For low risk, Pre-Investment is done with bond!
+### * For low risk, Pre-Investment is done with bond!
 ![Pre-Investment](./img/Pre_investment.png)
 
 ***You can run code with Colab!***
