@@ -34,7 +34,12 @@ HRP is the method that may can make up Markowitz model with hierarchical tree al
 <br></br>
 
 ## 3. RL Portfolio
+***[Benchmark Gihub](https://github.com/AI4Finance-Foundation/FinRL)
 
-## 4. Delta Hedging
+RL for automatic portfolio allocation based on "FinRL: Deep Reinforcement Learning for Quantitative Finance" which is accepted paper of NeurIPS 2018.
+
+<img src="./img/finrl.png" width="700" height="400"/>
+
+## 4. Dynamic Hedging
 
 ## 5. Deep Hedging
