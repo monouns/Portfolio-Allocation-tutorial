@@ -34,7 +34,7 @@ HRP is the method that may can make up Markowitz model with hierarchical tree al
 <br></br>
 
 ## 3. RL Portfolio
-***[Benchmark Gihub](https://github.com/AI4Finance-Foundation/FinRL)
+***[Benchmark Gihub](https://github.com/AI4Finance-Foundation/FinRL)***
 
 RL for automatic portfolio allocation based on "FinRL: Deep Reinforcement Learning for Quantitative Finance" which is accepted paper of NeurIPS 2018.
 
